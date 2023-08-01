@@ -21,7 +21,13 @@ Enter the name of a city in the input field and click the "Get Weather" button.
 
 The application will fetch and display the current weather conditions, temperature, and humidity for the selected city.
 
-
 or 
 
 you can open deployment link..
+
+
+This repo is just for code reference it is not to run the application if you are trying to run the application from github repo create react app and replace all the files inside src folder after installing these lib.
+1. react-animated-weather
+2. react-live-clock
+3. axios
+    ![Screenshot (113)](https://github.com/ashutozzz/weatherforcast/assets/89634784/8020b27f-8e36-495c-8f0c-e235e1aad77f)
